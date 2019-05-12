@@ -1,1 +1,1 @@
-CREATE TABLE IF NOT EXISTS shows ()
+class CreateShows < 
